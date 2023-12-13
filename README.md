@@ -1,5 +1,5 @@
 
-<h1>Hi 👋, I'm Shadai, an <a href="https://linkedin.com/in/figueroa7/">✨IT Professional✨</a>☺</h1>
+<h1>Hi 👋, I'm Shadai, an <a href="https://linkedin.com/in/figueroa7">✨IT Professional✨</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/figueroa7/
+[linkedin]: https://linkedin.com/in/figueroa7
